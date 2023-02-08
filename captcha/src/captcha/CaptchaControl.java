@@ -37,7 +37,7 @@ public class CaptchaControl extends HttpServlet {
 
 		JSONObject json = new JSONObject();
 		String func = request.getParameter("func");
-
+		System.out.println("innn");
 		switch(func){
 		case "img" : 
 			new CaptchaUtil().getImgCaptCha(request, response);
