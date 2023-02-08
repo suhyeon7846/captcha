@@ -19,6 +19,8 @@ import nl.captcha.Captcha;
 @WebServlet("/CaptchaControl")
 public class CaptchaControl extends HttpServlet {
 	private static final long serialVersionUID = 1L;
+	
+	
        
     /**
      * @see HttpServlet#HttpServlet()
