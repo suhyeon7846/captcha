@@ -27,6 +27,10 @@ public class CaptchaControl extends HttpServlet {
 	
 	
 	
+	
+	
+	
+	
     /**
      * @see HttpServlet#HttpServlet()
      */
