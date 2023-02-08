@@ -28,6 +28,7 @@ public class CaptchaControl extends HttpServlet {
      */
     public CaptchaControl() {
         super();
+        
         // TODO Auto-generated constructor stub
     }
 
