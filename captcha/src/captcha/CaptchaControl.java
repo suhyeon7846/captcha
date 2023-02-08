@@ -19,12 +19,18 @@ import nl.captcha.Captcha;
 @WebServlet("/CaptchaControl")
 public class CaptchaControl extends HttpServlet {
 	private static final long serialVersionUID = 1L;
+	
+	
+	
        
+	
+	
     /**
      * @see HttpServlet#HttpServlet()
      */
     public CaptchaControl() {
         super();
+        
         // TODO Auto-generated constructor stub
     }
 
