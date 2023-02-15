@@ -28,7 +28,7 @@ public class CaptchaControl extends HttpServlet {
 	///asdfsadf
 	
 	//test  
-	//충돌 테스트 22222
+	//충돌 테스트 22222 23234234234234
 	
 	
 	
