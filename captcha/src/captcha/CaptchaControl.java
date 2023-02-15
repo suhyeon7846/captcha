@@ -20,19 +20,6 @@ import nl.captcha.Captcha;
 public class CaptchaControl extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	
-	
-	
-	//success
-       
-	//sdfgsdfgsdsdfsdf
-	///asdfsadf
-	
-	//test  
-	//충돌 테스트 22222 23234234234234
-	
-	
-	
-	
     /**
      * @see HttpServlet#HttpServlet()
      */
